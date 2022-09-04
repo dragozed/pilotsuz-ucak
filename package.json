@@ -1,0 +1,17 @@
+{
+  "name": "pilotsuzucak",
+  "version": "1.0.0",
+  "description": "get data from external sources and turn it into json, excel maybe",
+  "main": "pilotsuzucak.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kaan İlik",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "pkg": "^5.8.0",
+    "xlsx": "^0.18.5"
+  }
+}
