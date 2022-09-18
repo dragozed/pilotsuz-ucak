@@ -1,2 +1,2 @@
 # pilotsuz-ucak
-Data scraping with brute force 
+Data scraping with brute force SMOrc
